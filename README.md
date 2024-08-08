@@ -4,7 +4,7 @@
 ## Description
 The data is collected in 66 rooms, 2-4 point locations in each room. According to the relative position of the sound source and the point, 2-5 sets of data are collected for each point. The valid time is 20 hours. The data is recorded in a wide range and can be used for smart home scene product development.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/34?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/34?source=Github
 
 
 ## Data Format
